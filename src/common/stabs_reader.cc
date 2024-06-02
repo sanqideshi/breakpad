@@ -44,7 +44,7 @@
 #include <string>
 
 #include "common/using_std_string.h"
-
+#include "linux/a.out.h"
 using std::vector;
 
 namespace google_breakpad {

@@ -44,7 +44,7 @@
 #include <unistd.h>
 
 #include "minidump_file_writer-inl.h"
-
+#include <cstring>
 using google_breakpad::MinidumpFileWriter;
 
 #define ASSERT_TRUE(cond) \
